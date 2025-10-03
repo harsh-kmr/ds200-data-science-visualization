@@ -134,4 +134,4 @@ The notebook automatically loads the dataset from the GitHub repository, so no a
 
 ---
 
-*This project was created as part of the DS200 Data Science assignment.*
+*This project was created as part of the DS200 assignment.*
